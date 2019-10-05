@@ -1,5 +1,10 @@
-# Blog Post
-## My first Blog Post
-* Post1
-* Post2
-* Post3
+# 2019.10.05
+## 오랜만에 개발환경 설치!
+
+개발 노트북 업그레이드를 위해 노트북 구입으로 인해 기존의 사용했던 개발환경이 다 날아갔다.ㅠㅠ
+그러므로 하나하나 다시 셋팅해야하는데....
+일단!
+
+* JAVA JDK 1.8
+* SPRING
+* MAVEN + MYBATIS + JSON 등 SPRING관련 SW
