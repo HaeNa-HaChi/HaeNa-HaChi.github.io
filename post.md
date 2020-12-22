@@ -22,3 +22,13 @@ p.s.2
 ms-sql jdbc 6.1 이후로 부터 maven 연동 가능!!  
 json simple도 가능..  
 항상 검색 안하고 외부 jar 썼다가... 시간 엄청 지체함ㅠ
+
+
+# 2020.12.22
+## 다시 한 번 관련 업무를 정리해 볼려고 한다.
+
+일단 최근에 사용한 Lucene, Apple 공증관련 지식부터 쌓아보도록 하자 
+
+* Apache Lucene
+* Apple Mac OS Application or pkg file 인증서 및 공증
+
